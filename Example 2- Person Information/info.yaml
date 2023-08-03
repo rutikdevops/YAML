@@ -1,0 +1,8 @@
+Person:
+  Name: Rutik
+  Age: 24
+  Email: rutik@example.com
+  Address:
+    City: Mumbai
+    State: Maharashtra
+    Country: India

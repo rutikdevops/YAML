@@ -1,0 +1,10 @@
+<Person>
+  <Name>Rutik</Name>
+  <Age>24</Age>
+  <Email>rutik@example.com</Email>
+  <Address>
+    <City>Mumbai</City>
+    <State>Maharashtra</State>
+    <Country>India</Country>
+  </Address>
+</Person>
