@@ -1,0 +1,17 @@
+<Fruits>
+  <Fruit>
+    <Name>Apple</Name>
+    <Color>Red</Color>
+    <Taste>Sweet</Taste>
+  </Fruit>
+  <Fruit>
+    <Name>Banana</Name>
+    <Color>Yellow</Color>
+    <Taste>Sweet</Taste>
+  </Fruit>
+  <Fruit>
+    <Name>Orange</Name>
+    <Color>Orange</Color>
+    <Taste>Tangy</Taste>
+  </Fruit>
+</Fruits>
